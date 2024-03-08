@@ -2,8 +2,8 @@
  "background_color": "#000000",
  "theme_color": "#000000",
  "name": "E-CAR AUTOMOVEIS",
- "start_url": "index.html",
  "display": "fullscreen",
+ "start_url": "index.html",
  "icons": [
   {
    "type": "image/png",
